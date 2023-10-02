@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Inter', sans-serif;
+    background: wheat;
+
+
+}
+
+.header_div{
+    background: rgb(200, 204, 139);
+    color:lightseagreen;
+}
+
+.header_div p{
+    font-family: 'Poppins', sans-serif;
+    color: wheat;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.main_div_button{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: rgb(200, 204, 139);
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px grey;
+}
